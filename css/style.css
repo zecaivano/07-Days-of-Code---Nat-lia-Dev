@@ -1,3 +1,5 @@
+@import url(cabecalho.css);
+
 :root {
     --fundo-escuro: #000;
     --fundo-card: #1d2226;
@@ -13,6 +15,7 @@
 
 *{
     font-family: 'Roboto', sans-serif;
+    color: var(--texto-principal);
 }
 body {
     background-color: var(--fundo-escuro);
