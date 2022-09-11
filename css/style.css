@@ -207,3 +207,17 @@ body {
     text-align: justify;
     margin-top: 8px;
 }
+
+.experiencias__empresa {
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 20px;
+}
+
+.cargo{
+    margin-left: 70px;
+}
+
+.timeline {
+    margin: 0 28px;
+}
